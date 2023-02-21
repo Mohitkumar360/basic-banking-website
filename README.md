@@ -9,6 +9,4 @@ The website has the following specification - Start with a dummy data for upto 1
 Transaction status: Transfer table/ Transfer History which records all the transactions  
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
-If you have any questions or want to know more about the project, you can reach out to the creator, Kumar Gaurav, on LinkedIn at: https://www.linkedin.com/in/kgaurav152/
-
 # Basic_Banking_System
